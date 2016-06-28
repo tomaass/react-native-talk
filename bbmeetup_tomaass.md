@@ -52,7 +52,7 @@ $ react-native run-meetup
 ### developer at Blueberry
 ### team leader of React Native Rockstars
 
-#### all social sites knows me as *tomaass* or *_tomaass*
+#### all social sites know me as *tomaass* or *_tomaass*
 #### tsorejs@blueberryapps.com
 
 ^ Představit sebe, svoji roli v BB a náš team
