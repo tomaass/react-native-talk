@@ -46,6 +46,7 @@ $ git commit -m "Q&A" --author="React Native Rockstars"
 
 $ react-native run-meetup
 ```
+
 ---
 # Tomáš Šorejs
 ### developer at Blueberry
@@ -77,7 +78,7 @@ programovací jazyk na bázi C s 2D grafickým rozhraním
 
 ---
 
-# Assembler, Delphi, PHP
+# Assembler, Delphi
 
 ^ instrukce, PIC16F877A
 
@@ -141,6 +142,8 @@ Kazdy nekdy zabloudi
 # Co je Native aplikace?
 
 ^ Aplikace vytvořená pro určitou platformu, která může využívat všechny její možnosti.
+Používá nativní UI elementy, má přístup k funkcím telefonu jako je foťák, GPS nebo HW tlačítka.
+Většina aplikací vašich telefonů bude nativních.
 
 ---
 
@@ -196,13 +199,18 @@ rendering webview
 - UI je Native
 - možnost použití nativního kódu
 
+^ Nick Schrock - Keynote React.js Conf 2016 google byl taky 25 wevý výhledávač
+^ JE to REAct
+^ nativní moduly
+
 ---
 
 #[FIT] ~~Write once, run anywhere~~
 #[FIT] Learn once, write anywhere
 
 ^
-is a slogan created by Sun Microsystems to illustrate the cross-platform benefits of the Java language
+- slogan Sun Microsystems - Java
+- jedno vývojový prostředí, jeden jazyk, jedna knihovna, ale možnosti využítí specifických vlastností jednolivých platforem
 
 ---
 
@@ -215,7 +223,7 @@ is a slogan created by Sun Microsystems to illustrate the cross-platform benefit
 - 09/2015 Android support
 
 ^ září 2015 Android support
-^ React.js Conf 2016 - Nick Schrock - Keynote - google byl taky 25 search engine
+
 ^ spousta lidí přešlo ze Swiftu
 
 ---
@@ -242,13 +250,6 @@ is a slogan created by Sun Microsystems to illustrate the cross-platform benefit
 
 ---
 
-![fit](desktop-screen.png)
-
-^ team Já + Maršák, paralelní vývoj s web verzí - David Srbsko
-^ zvolili jsme pouze iOS komponenty
-
----
-
 ![left fit](screen-app-code.png)
 ![right fit](screen-app.png)
 
@@ -258,20 +259,38 @@ is a slogan created by Sun Microsystems to illustrate the cross-platform benefit
 ![right fit](screen-web-code.png)
 
 ---
-# Výsledek
+![fit](desktop-screen.png)
 
-^ Popsat závěr co se nám povedlo před sv. Antonínem
+^ team Já + Maršák, paralelní vývoj s web verzí - David Srbsko
+^ zvolili jsme pouze iOS komponenty
 
 ---
 
-# Sdílení kódu Browser a Native part
+![fit](desktop-screen.png)
 
-^ Popsat, co se sdílí, ukázat co jsem změřil
+- po 3 měsících vývoje iOS verze
+- registrační proces
+- validaci dat
+- nahrávání fotek
+- komunikace s API
+
+---
+
+![fit](shared-count.png)
+
+---
+
+![fit](shared-count.png)
+
+#[FIT] 54%
 
 ---
 
 # Závěr z React Native
 
-^ Velice jednoduchý napojení na React Appku, velice jednoduchý na naučení - kódu rozumí i Maršák - soustředit se na tuhle část, nezabíhat do multiplatforem
+- je production ready
+- je to mobile development for webdevelopers
+- je to crossplatform
+- je to zábava
 
-# Otázky
+^ Velice jednoduchý napojení na React Appku, velice jednoduchý na naučení - kódu rozumí i Maršák - soustředit se na tuhle část, nezabíhat do multiplatforem
